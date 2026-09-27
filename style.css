@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff4f8;
+    margin: 0;
+    color: #4a3b40;
+}
+
+header {
+    background-color: #e8a9c4;
+    text-align: center;
+    padding: 40px;
+}
+
+header h1 {
+    color: white;
+    font-size: 40px;
+}
+
+header p {
+    color: white;
+    font-size: 18px;
+}
+
+main {
+    width: 80%;
+    margin: 30px auto;
+}
+
+.passion {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 25px;
+    border-radius: 15px;
+    box-shadow: 0 3px 10px #ddd;
+}
+
+.passion h2 {
+    color: #c75b8a;
+}
+
+.passion p {
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+.passion:hover {
+    transform: scale(1.02);
+}
+
+footer {
+    background-color: #e8a9c4;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
